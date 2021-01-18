@@ -4,7 +4,7 @@ I'm the co-founder of [Interloop](https://github.com/InterloopHQ) where we help 
 
 ### Connect With Me
 
-[<img align="left" alt="Linkedin" width="30px" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />][blog]
+[<img align="left" alt="Linkedin" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />](www.linkedin.com/in/jordan~berry)
 
 
 ### Check Out My Latest Thoughts & More
