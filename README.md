@@ -1,4 +1,4 @@
-## Hi, I'm [Jordan Berry](https://jordan-berry.com), aka The Palmetto Gent 👋
+## Hi, I'm [Jordan Berry](https://jordan-berry.com) 👋
 
 I'm the co-founder of [Interloop](https://github.com/InterloopHQ) where we help our clients harness the power of their data. 
 
